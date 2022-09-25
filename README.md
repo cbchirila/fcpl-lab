@@ -1,17 +1,3 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css">
-
-    <title>Fundamental Concepts of Programing Languages</title>
-  </head>
-  <body>
-	<div class="container">
-
-<!---------------------------------------------------------------------------->
-
 <h1>Fundamental Concepts of Programing Languages Laboratory</h1>
 
 <h2>1. Introduction</h2>
@@ -119,20 +105,3 @@ todo
 13.1 <a href="laborator baze de date.pdf">C Sharp and databases</a>
 
 <h2>14. Recoveries</h2>
-
-<!--
-<h2>6. Expression trees</h2>
-6.1 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/expression-trees/">Expression trees</a><br>
-6.2 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/expression-trees/how-to-execute-expression-trees">Execution</a><br>
-6.3 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/expression-trees/how-to-use-expression-trees-to-build-dynamic-queries">Using ET in dynamic queries</a><br>
-6.4 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/expression-trees/debugging-expression-trees-in-visual-studio">Debuggin ET in Visual Studio</a><br>
--->
-
-
-<!---------------------------------------------------------------------------->
-
-
-
-	</div>
-  </body>
-</html>
