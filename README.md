@@ -1,6 +1,3 @@
-# fcpl
-Fundamental Concepts of Programming Languages
-
 <!doctype html>
 <html lang="en">
   <head>
